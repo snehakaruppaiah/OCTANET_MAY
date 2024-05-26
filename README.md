@@ -1,8 +1,7 @@
 ## land1
 
-# In this project we will build a landing page with the time that we can interact with and save our name/focus to local storage.
-
-# The Main inspiration behind doing this project is the most popular "Moment" Chrome Extension
+ In this project we will build a landing page with the time that we can interact with and save our name/focus to local storage.
+ The Main inspiration behind doing this project is the most popular "Moment" Chrome Extension
 
 
 
